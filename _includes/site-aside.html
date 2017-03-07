@@ -1,13 +1,12 @@
 <aside class="aside  typeset">
 
   {% unless page.layout == "categories" or page.collection == "posts" %}
-    <h3>About this site</h3>
     <p>{{ site.description }}</p>
   {% endunless %}
 
-  {% unless page.layout == "categories" or page.layout == "search" or page.collection == "posts" or paginator.posts %}
+  <!--{% unless page.layout == "categories" or page.layout == "search" or page.collection == "posts" or paginator.posts %}
     {% include post-list.html %}
-  {% endunless %}
+  {% endunless %}-->
 
   {% if page.layout == "categories" %}
     <section class="section  section--category-index">
