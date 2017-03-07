@@ -77,10 +77,10 @@ url: "https://konwent-pratchett.pl/"
 # 8. Site navigation
 navigation_header:
   Home: /
-  Program: /categories/#program
+  Program: /program
   Dojazd: /dojazd
   Regulamin: /regulamin
-  Plakaty: /categories/#plakaty
+  Plakaty: /plakaty
   Informacje: /blog/
   Rejestracja: /register
 
