@@ -76,7 +76,7 @@ url: "https://konwent-pratchett.pl/"
 
 # 8. Site navigation
 navigation_header:
-  Home: /
+  O zlocie: /
   Program: /program
   Dojazd: /dojazd
   Regulamin: /regulamin
@@ -88,8 +88,8 @@ social_links:
   facebook: https://www.facebook.com/events/340991619626114/
   GitHub: https://github.com/konwent-pratchett
 
-navigation_footer:
-  No siemka
+# navigation_footer:
+#   No siemka
 
 sharing_links:
   Twitter: "#1DA1F2"
