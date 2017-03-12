@@ -18,6 +18,8 @@ exclude:
 - Gemfile.lock
 - demo/*
 - alembic-jekyll-theme.gemspec
+- docker-compise.yml
+- konwent-pratchett.sublime-project
 
 # 2. Installed Gems
 gems:
