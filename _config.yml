@@ -74,7 +74,7 @@ encoding: utf-8 # Make sure the encoding is right
 title: "Konwent Pratchett" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Konwent Pratchettowy w Nawojowej Górze"
-url: "https://konwent-pratchett.pl/"
+url: "http://konwent-pratchett.pl/"
 
 # 8. Site navigation
 navigation_header:
