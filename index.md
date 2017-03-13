@@ -7,7 +7,7 @@ image: "/assets/headers/home.jpg"
 excerpt: "Konwent Pratchett Wiosna 2017"
 ---
 
-Kolejny już zlot fanów twórczości Terry’ego Pratchetta. Zabawę zaczynamy 31 marca, a kończymy 2 kwietnia, chociaż dla chętnych imprez przedłużanych zawsze znajdzie się kawałek podłogi a następnego dnia rano kawałek kosmosu do posprzątania.
+Kolejny już zlot fanów twórczości Terry’ego Pratchetta. Zabawę zaczynamy {{ site.event.human_start }}, a kończymy {{ site.event.human_end }}, chociaż dla chętnych imprez przedłużanych zawsze znajdzie się kawałek podłogi a następnego dnia rano kawałek kosmosu do posprzątania.
 
 Impreza odbywa się w Domu Gromadzkim w Nawojowej Górze, miejscowości położonej dosłownie rzut beretem (i pół godziny jazdy busem) od Krakowa.
 

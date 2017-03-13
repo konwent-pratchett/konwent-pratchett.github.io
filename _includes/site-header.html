@@ -1,8 +1,12 @@
 <header class="header">
-  <div class="container">
+  <div class="header-nofeat">
+  <div class="container upper-header">
     {% include site-logo.html %}
-
+    {% include site-basicinfo-link.html %}
+  </div>
+  <div class="container lower-header">
     {% include nav-header.html %}
+  </div>
   </div>
 
   {% include site-feature.html %}

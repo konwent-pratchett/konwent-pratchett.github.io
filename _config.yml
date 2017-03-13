@@ -76,6 +76,13 @@ logo: "/assets/placeholder-logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Konwent Pratchettowy w Nawojowej Górze"
 url: "http://konwent-pratchett.pl/"
 
+event:
+  start: 31.03.2017
+  end: 2.04.2017
+  registration_end: 24.03.2017
+  human_start: "31 marca"
+  human_end: "2 kwietnia"
+
 # 8. Site navigation
 navigation_header:
   O zlocie: /
@@ -90,8 +97,14 @@ social_links:
   facebook: https://www.facebook.com/events/340991619626114/
   GitHub: https://github.com/konwent-pratchett
 
-# navigation_footer:
-#   No siemka
+navigation_footer:
+  O zlocie: /
+  Program: /program
+  Dojazd: /dojazd
+  Regulamin: /regulamin
+  Plakaty: /plakaty
+  Informacje: /blog/
+  Rejestracja: /register
 
 sharing_links:
   Twitter: "#1DA1F2"

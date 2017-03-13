@@ -2,8 +2,8 @@
 title: Plakaty
 feature_text: |
   ## Plakaty konwentowe
-feature_image: "/assets/headers/posters.jpg"
-image: "/assets/headers/posters.jpg"
+feature_image: "/assets/headers/home.jpg"
+image: "/assets/headers/home.jpg"
 excerpt: "Plakaty konwentowe"
 layout: plakaty
 ---

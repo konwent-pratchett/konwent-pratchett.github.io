@@ -28,6 +28,26 @@ body {
   margin: 0 auto;
 }
 
+.header-nofeat {
+  background: $color__site--accent;
+  color: $color__site--background;
+  a {
+    color: $color__site--background;
+  }
+  .item--current a {
+    color: $color__site--background;
+  }
+}
+
+.upper-header {
+  .basicinfo-link {
+    font-family: 'Exo 2', sans-serif;
+  }
+  .logo {
+    font-family: 'Gochi Hand', cursive;
+    font-size: 200%;
+  }
+}
 
 // Header, feature and footer
 .header,
@@ -56,7 +76,8 @@ body {
   background-position: center;
   @include flexbox;
   .container {
-    min-height: 35vh;
+    font-family: 'Exo 2', sans-serif;
+    min-height: 15vh;
     max-width: 60%;
     background: rgba(255,255,255,0.502);
     @include flex-direction(column);
@@ -418,6 +439,16 @@ pre code {
 
 // Sassline overrides
 .typeset {
+  h3 {
+    font-family: 'Exo 2', sans-serif;
+  }
+  h2 {
+    font-family: 'Gochi Hand', cursive;
+  }
+  h1 {
+    font-family: 'Gochi Hand', cursive;
+    font-size: 150%;
+  }
   .button,
   button {
     background-image: none;
