@@ -9,6 +9,10 @@ image: "/assets/headers/home.jpg"
 excerpt: "Konwent Pratchett Wiosna 2017"
 ---
 
+### Do kiedy można się rejestrować?
+
+Do {{ site.event.registration_end }}.
+
 ### O której konkretnie zaczyna się konwent?
 
 W piątek, {{ site.event.start }}, w samo południe.
