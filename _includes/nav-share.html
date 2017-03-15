@@ -1,4 +1,4 @@
-<div class="share">Udostępnij: 
+<div class="share">{% t general.share %}: 
   {% for network in site.sharing_links %}
     {% assign name = network[0] %}
     {% assign id = network[0] | downcase | remove: " " %}

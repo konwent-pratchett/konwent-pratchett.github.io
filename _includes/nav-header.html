@@ -11,3 +11,10 @@
 {% else %}
   {% include nav-default.html %}
 {% endif %}
+<div class="langswitch">
+	{% if site.lang == "pl" %}
+	  <a href="{{ site.baseurl_root }}en" >{% t general.english %}</a>
+	{% elsif site.lang == "en" %}
+	  <a href="{{ site.baseurl_root }}" >{% t general.polish %}</a>
+	{% endif %}
+</div>

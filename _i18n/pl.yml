@@ -1,0 +1,18 @@
+general:
+  site-title: Konwent Pratchett
+  more-info: Więcej info
+  share: Udostępnij
+  recommended: Polecamy
+  english: Angielski
+  polish: Polski
+menu:
+  about: O zlocie
+  program: Program
+  howtoget: Dojazd
+  terms: Regulamin
+  posters: Plakaty
+  info: Informacje
+  register: Rejestracja
+pagination:
+  previous: Poprzednie
+  next: Następne
