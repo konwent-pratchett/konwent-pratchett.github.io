@@ -18,6 +18,7 @@ layout: default
 						 	<h3><a href="{{ page.url }}" title="Post - {{ page.title }}">{{ page.title }}</a></h3>
 							{% include post-meta.html %}
 							{{ page.excerpt | markdownify | truncatewords: 60 }}
+							<p><a href="{{ page.url }}" title="Post - {{ page.title }}">Cały wpis</a></p>
 					 	</article>
 					 </li>
 				{% endfor %}

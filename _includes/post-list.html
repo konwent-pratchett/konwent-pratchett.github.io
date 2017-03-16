@@ -9,6 +9,7 @@
 						<h2><a href="{{ page.url }}" title="Post - {{ page.title }}">{{ page.title }}</a></h2>
 						{% include post-meta.html %}
 						{{ page.excerpt | markdownify | truncatewords: 60 }}
+						<p><a href="{{ page.url }}" title="Post - {{ page.title }}">Cały wpis</a></p>
 
 					</article>
 				</li>
@@ -27,6 +28,7 @@
 					<h4><a href="{{ page.url }}" title="Post - {{ page.title }}">{{ page.title }}</a></h4>
 					{% include post-meta.html %}
 					{{ page.excerpt | markdownify | truncatewords: 60 }}
+					<p><a href="{{ page.url }}" title="Post - {{ page.title }}">Cały wpis</a></p>
 
 				</article>
 			</li>
