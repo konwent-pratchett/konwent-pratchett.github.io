@@ -1,7 +1,5 @@
 ---
 title: Rejestracja
-feature_text: |
-  ## Rejestracja na konwent
 feature_image: "/assets/headers/register.jpg"
 image: "/assets/headers/register.jpg"
 excerpt: "Rejestracja na konwent"
