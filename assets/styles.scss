@@ -74,6 +74,7 @@ body {
   background: $color__site--accent;
   background-size: cover;
   background-position: center;
+  min-height: 15vh;
   @include flexbox;
   .container {
     font-family: 'Exo 2', sans-serif;
