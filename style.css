@@ -1,0 +1,30 @@
+html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#centertext {
+	position:absolute; 
+	top:30%;
+	width:100%;
+	left: 0;
+	text-align:center;
+	background-color: rgba(255, 255, 255, 0.8);
+}
+
+h1 {
+	font-family: 'Archivo Narrow', sans-serif;
+	letter-spacing: -5pt;
+	font-size: 90pt;
+	margin: 0;
+}
+
+#centertext p {
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 30pt;
+	letter-spacing: 1pt;
+	margin: 10pt;
+}
