@@ -38,7 +38,7 @@ function update() {
 }
 function init_countdown() {
 	update();
-	setInterval("update();", 1000);
+	setInterval("update();", 100);
 }
 
 init_countdown();
