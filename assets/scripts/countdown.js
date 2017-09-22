@@ -1,7 +1,7 @@
 "use strict";
 
-var event_start = new Date("2017-03-31 12:00:00");
-var event_end   = new Date("2017-04-02 12:00:00");
+var event_start = new Date("2017-10-06 12:00:00");
+var event_end   = new Date("2017-10-08 12:00:00");
 
 function countdown_to(prefix, now, when, element) {
     var _second = 1000;
