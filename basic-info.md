@@ -27,6 +27,8 @@ Niestety, organizacja konwentu kosztuje. Pieniądze zbierane za uczestnictwo są
 
 Zgodnie z [regulaminem](/regulamin), jeśli jesteś tylko ciekawy/a, możesz bezpłatnie wejść jako gość i zobaczyć, co się dzieje. Jeśli jednak chcesz się cieszyć pełnią praw konwentowicza, konieczne jest uiszczenie opłaty:
 
-* Jeśli przelew zostanie wykonany najpóźniej ostatniego dnia rejestracji: **30 pln**,
-* Jeśli przelew zostanie wykonany pomiędzy zakończeniem rejestracji a konwentem: **35pln**
-* Gotówką w dniu konwentu: **40 pln**
+* Jeśli przelew zostanie wykonany najpóźniej 1 pażdziernika 2017: **35 pln**,
+* Jeśli przelew zostanie wykonany pomiędzy 2 a 5 października 2017: **40pln**
+* Gotówką do 5 października: **40 pln**
+* Po 5 października 2017 przyjmujemy jedynie wpłaty bezpośrednie w wysokości **45pln**,
+* Osoby, które zobligują się pomagać na konwencie i realnie się z zobowiązania wywiążą, mogą liczyć na zwrot części kwoty po rozliczeniu konwentu.
