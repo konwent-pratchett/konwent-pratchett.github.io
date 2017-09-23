@@ -22,7 +22,7 @@ exclude:
 - konwent-pratchett.sublime-project
 
 # 2. Installed Gems
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
