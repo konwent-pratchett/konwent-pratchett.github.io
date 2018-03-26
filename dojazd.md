@@ -31,7 +31,7 @@ Gdyby ktoś wzgardził naszym ciepełkiem i noclegiem wspólnym, najbliższe mo�
 
 ## Informacje dotyczące dojazdu
 
-Busy z Krakowa (Wita Stwosza 1 - parking pod estakadą) do Krzeszowic, a co za tym idzie jadące do Nawojowej Góry, w tygodniu jadą co 10 minut, soboty-15 a niedziele 20. Ostatnie z Krakowa w tygodniu wyjadą o 22 w weekend jakoś o 21. Worcella 6 to parking biedronki, przy ulicy Pawiej. Najłatwiej wejść tam przez przejście w ogrodzeniu naprzeciwko Galerii Krakowskiej. Kosztuje równe 5 złotych.
+Busy z Krakowa (Wita Stwosza 1 - parking pod estakadą) do Krzeszowic, a co za tym idzie jadące do Nawojowej Góry, w tygodniu jadą co 10 minut, soboty-15 a niedziele 20. Ostatnie z Krakowa w tygodniu wyjadą o 22, w weekend jakoś o 21. Kosztuje równe 5 złotych.
 
 Jadąc busem z Krakowa, zacznijcie zbierać klamoty kiedy wjedziecie do Rudawy. Jeśli nastawiacie się na spacer, wysiądźcie na DRUGIM przystanku w Nawojowej Górze. Albo poproście kierowcę o wysadzenie Was tam kiedy będziecie wsiadać do busa i płacić, albo nie zasypiajcie. Jeżeli jednak Wam się to udało, i nie wiecie który to przystanek to po pierwsze: bez paniki. Pierwszy przystanek w Nawojowej Górze wygląda zwyczajnie biednie. To po prostu tablica informacyjna zaraz za znakiem z nazwą miejscowości.
 
@@ -47,11 +47,11 @@ Dalej są już Krzeszowice. Jeżeli nie chce się Wam zerkać na mapę albo pyta
 
 W sytuacji: o rany, gdzie ja kurcze blade jestem?! Mamy dwa numery „alarmowe”:
 
- * **880 353 711**
- * **662 069 429**
+ * **880 353 711 - Gytha**
+ * **662 069 429 - Jarema**
 
 Postaramy się udzielić informacji, które uratują skórę.
 
 ## Dodatkowe informacje
 
-Gdyby ktoś czuł taką potrzebę w niedzielę: kościół mieści się na trasie Dom Gromadzki-pomnik, jakieś 300-400 metrów od tego pierwszego.
+Gdyby ktoś czuł taką potrzebę w niedzielę: kościół mieści się na trasie Dom Gromadzki-pomnik, jakieś 300-400 metrów od tego pierwszego. Msze są o 8:00, 11:00 i 16:00.

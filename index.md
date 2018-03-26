@@ -1,15 +1,15 @@
 ---
 title: O Zlocie
 feature_text: |
-  ## Konwent Pratchett Jesień 2017
+  ## Konwent Pratchett Wiosna 2018
 feature_image: "/assets/headers/home.jpg"
 image: "/assets/headers/home.jpg"
-excerpt: "Konwent Pratchett Jesień 2017"
+excerpt: "Konwent Pratchett Wiosna 2018"
 ---
 
 Kolejny już zlot fanów twórczości Terry’ego Pratchetta. Zabawę zaczynamy {{ site.event.human_start }}, a kończymy {{ site.event.human_end }}, chociaż dla chętnych imprez przedłużanych zawsze znajdzie się kawałek podłogi a następnego dnia rano kawałek kosmosu do posprzątania.
 
-Impreza odbywa się w Domu Gromadzkim w Nawojowej Górze, miejscowości położonej dosłownie rzut beretem (i pół godziny jazdy busem) od Krakowa.
+Impreza odbywa się w Domu Gromadzkim w Nawojowej Górze, miejscowości położonej dosłownie rzut beretem (i czterdzieści minut jazdy busem) od Krakowa.
 
 Stworzony przez fanów, dla fanów. Cechuje się nietypowo wręcz przyjazną atmosferą.
 

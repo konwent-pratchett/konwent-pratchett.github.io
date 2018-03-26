@@ -77,11 +77,11 @@ description: "Konwent Pratchettowy w Nawojowej Górze"
 url: "http://konwent-pratchett.pl/"
 
 event:
-  start: 06.10.2017
-  end: 08.10.2017
-  registration_end: 01.10.2017
-  human_start: "6 października"
-  human_end: "8 października"
+  start: 13.04.2018
+  end: 15.04.2018
+  registration_end: 04.04.2018
+  human_start: "13 kwietnia"
+  human_end: "15 kwietnia"
 
 # 8. Site navigation
 navigation_header:
@@ -94,7 +94,7 @@ navigation_header:
   Rejestracja: /register
 
 social_links:
-  facebook: https://www.facebook.com/events/1268527776534956
+  facebook: https://www.facebook.com/events/203936963691981/
   GitHub: https://github.com/konwent-pratchett
 
 navigation_footer:

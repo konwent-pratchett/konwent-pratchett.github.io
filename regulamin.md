@@ -15,34 +15,34 @@ Jeżeli przybędziesz do nas autem, weź pod uwagę że przed Domem Gromadzkim s
 
 Nieletni którzy przyjadą/przylecą/przypłyną/teleportują się do nas, są zobligowani do nie spożywania alkoholu i nie palenia papierosów. Ponad to, muszą mieć ze sobą pisemną zgodę rodzica, z czytelnym imieniem, nazwiskiem i numerem telefonu, gdyby organizatorzy musieli się z nim skontaktować. **Nieletni do lat dwunastu nie płacą za swój wstęp** jeśli przybywają z rodzicem bądź innym prawnym opiekunem.
 
-Organizatorzy zastrzegają sobie prawo, do lekkiej zmiany godzin lub formy punktów programu, co niestety byłoby spowodowane, na przykład, warunkami atmosferycznymi. Bądź wyśmienitą zabawą przy poprzednim punkcie co równocześnie oznacza przedłużenie jego trwania.
+Organizatorzy zastrzegają sobie prawo, do lekkiej zmiany godzin lub formy punktów programu, co niestety byłoby spowodowane, na przykład, warunkami atmosferycznymi. Bądź wyśmienitą zabawą przy poprzednim punkcie, co równocześnie oznacza przedłużenie jego trwania.
 
 To spotkanie organizowane jest przede wszystkim z myślą o dobrej zabawie w Dyskowym stylu. Jeżeli z jakichś powodów będziesz utrudniał(a) uczestnictwo naszych pozostałych gości w zajęciach, zostanie to potraktowane jako naruszenie regulaminu. To samo dotyczy sytuacji narażenia życia bądź zdrowia zarówno pozostałych gości jak i Twojego własnego.
 
-W przypadku zniszczenia mienia Domu Gromadzkiego lub prywatnej własności zlotowiczów, jesteś zobowiązany(a) do pokrycia kosztów naprawy lub ponownego zakupu uszkodzonego sprzętu. Chcielibyśmy aby zloty w Nawojowej Górze dalej były imprezą cykliczną więc dbajmy o miejsce w którym się spotykamy.
+W przypadku zniszczenia mienia Domu Gromadzkiego lub prywatnej własności zlotowiczów, jesteś zobowiązany(a) do pokrycia kosztów naprawy lub ponownego zakupu uszkodzonego sprzętu. Chcielibyśmy, aby zloty w Nawojowej Górze dalej były imprezą cykliczną, więc dbajmy o miejsce w którym się spotykamy.
 
-**Prosimy o nieprzywożenie ze sobą swoich pupili.** Tak, wiemy że są czyste, przyjazne i w ogóle, ale przy takiej ilości osób może zdarzyć się że ktoś będzie miał na zwierzaka alergię.
+**Prosimy o nieprzywożenie ze sobą swoich pupili.** Tak, wiemy że są czyste, przyjazne i w ogóle, ale przy takiej ilości osób może zdarzyć się, że ktoś będzie miał na zwierzaka alergię.
 
 Segregujemy śmieci. Jest to istotne, bo pozwala nam zminimalizować koszty. Posegregowane śmieci bowiem można oddać bezpłatnie w punkcie. Kosze zaopatrzone w specjalne worki znajdziesz na korytarzu Domu Gromadzkiego. Bardzo prosimy o zwracanie uwagi na to do jakiego kosza wrzucamy odpadki i czy aby na pewno jest on właściwy. Jeśli widzisz w toalecie przepełniony kosz to zgłoś to w akredytacji lub posprzątaj.
 
-Przypominamy że podczas rejestracji pojawia się rubryka w której należy wpisać produkty których się z różnych powodów nie je. Kolejna istotna rubryka to nocleg. Proponuję wziąć pod uwagę fakt, że decydując się na nocleg w Domu Gromadzkim, może się okazać że część osób będzie się bawić dłużej niż Ty, do czego de facto mają prawo. Jeżeli potrzebujesz absolutnej ciszy aby zasnąć, proponowałabym rozpatrzeć inne opcje noclegowe.
+Przypominamy że podczas rejestracji pojawia się rubryka, w której należy wpisać produkty których się z różnych powodów nie je. Kolejna istotna rubryka to nocleg. Proponuję wziąć pod uwagę fakt, że decydując się na nocleg w Domu Gromadzkim, może się okazać że część osób będzie się bawić dłużej niż Ty, do czego de facto mają prawo. Jeżeli potrzebujesz absolutnej ciszy aby zasnąć, proponowałabym rozpatrzeć inne opcje noclegowe.
 
-Przyjeżdżając wyrażasz zgodę na to, że możesz pojawić się na zdjęciach i filmiku które będą stanowiły pamiątkę zlotu i zostaną udostępnione zainteresowanym.
+Przyjeżdżając wyrażasz zgodę na to, że możesz pojawić się na zdjęciach i filmiku, które będą stanowiły pamiątkę zlotu i zostaną udostępnione zainteresowanym.
 
 **Pamiętaj że za rzeczy pozostawione na terenie konwentu żaden z organizatorów nie odpowiada.**
 
 ## Koszty
 
-W przypadku przedpłaty na konto dokonanej przed 1.10.2017 jest to kwota 35 złotych.
+W przypadku przedpłaty na konto dokonanej przed 4.04.2018 jest to kwota 35 złotych.
 
-Przy przelewie pomiędzy 2 a 5 października 40 złotych.
+Przy przelewie pomiędzy 4 a 13 kwietnia -  40 złotych.
 
-Pieniądze wpłacane bezpośrednio do organizatorów, do dnia 5.10 są w wysokości 40 złotych.
+Pieniądze wpłacane bezpośrednio do organizatorów, do dnia 13.04 są w wysokości 40 złotych.
 
-Po 5.10.2017 przyjmujemy jedynie wpłaty bezpośrednie w wysokości 45.
+Po 13.04.2018 przyjmujemy jedynie wpłaty bezpośrednie w wysokości 45.
 
 Osoby które zobligują się do pomocy przy organizacji i realnie ze zobowiązania się wywiążą, mogą liczyć na zwrot części kwoty już po rozliczeniu konwentu.
 
-Jeżeli odwiedzasz nas tylko na chwilę, ot żeby zobaczyć co to w ogóle za impreza, dostaniesz plakietkę z napisem „GOŚĆ”. Możesz zobaczyć co się dzieje, ale jesteś pozbawiony(a) podstawowych praw zlotowicza takich jak posiłek, nocleg a przede wszystkim-udział w zajęciach i konkursach. Mamy nadzieję że impreza Ci się spodoba i następnym razem odwiedzisz nas jako pełnoprawny uczestnik.
+Jeżeli odwiedzasz nas tylko na chwilę, ot żeby zobaczyć co to w ogóle za impreza, dostaniesz plakietkę z napisem „GOŚĆ”. Możesz zobaczyć co się dzieje, ale jesteś pozbawiony(a) podstawowych praw zlotowicza, takich jak posiłek, nocleg a przede wszystkim - udział w zajęciach i konkursach. Mamy nadzieję, że impreza Ci się spodoba i następnym razem odwiedzisz nas jako pełnoprawny uczestnik.
 
 Prosimy o przestrzeganie regulaminu, w innym wypadku organizator może domagać się opuszczenia przez Ciebie imprezy bez zwrotu kosztów. Życzymy udanej zabawy.
