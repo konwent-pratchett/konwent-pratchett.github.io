@@ -1,10 +1,10 @@
 ---
 title: O Zlocie
 feature_text: |
-  ## Konwent Pratchett Wiosna 2018
+  ## Konwent Pratchett Jesień 2018
 feature_image: "/assets/headers/home.jpg"
 image: "/assets/headers/home.jpg"
-excerpt: "Konwent Pratchett Wiosna 2018"
+excerpt: "Konwent Pratchett Jesień 2018"
 ---
 
 Kolejny już zlot fanów twórczości Terry’ego Pratchetta. Zabawę zaczynamy {{ site.event.human_start }}, a kończymy {{ site.event.human_end }}, chociaż dla chętnych imprez przedłużanych zawsze znajdzie się kawałek podłogi a następnego dnia rano kawałek kosmosu do posprzątania.

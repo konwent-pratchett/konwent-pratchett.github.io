@@ -1,3 +1,9 @@
 <div id="countdown_timer" />
 
-<script src="/assets/scripts/countdown.js"></script>
+<script type="text/javascript" src="/assets/scripts/countdown.js"></script>
+
+<script type="text/javascript">
+	init_countdown(
+		new Date("{{ site.event.start }} 12:00:00"),
+		new Date("{{ site.event.end }} 12:00:00"));
+</script>

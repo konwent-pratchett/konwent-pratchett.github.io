@@ -33,13 +33,13 @@ Przyjeżdżając wyrażasz zgodę na to, że możesz pojawić się na zdjęciach
 
 ## Koszty
 
-W przypadku przedpłaty na konto dokonanej przed 4.04.2018 jest to kwota 35 złotych.
+W przypadku przedpłaty na konto dokonanej przed {{ site.event.payment.early }} jest to kwota 35 złotych.
 
-Przy przelewie pomiędzy 4 a 13 kwietnia -  40 złotych.
+Przy przelewie pomiędzy {{ site.event.payment.normal }} -  40 złotych.
 
-Pieniądze wpłacane bezpośrednio do organizatorów, do dnia 13.04 są w wysokości 40 złotych.
+Pieniądze wpłacane bezpośrednio do organizatorów, do dnia {{ site.event.payment.normal_cash }} są w wysokości 40 złotych.
 
-Po 13.04.2018 przyjmujemy jedynie wpłaty bezpośrednie w wysokości 45.
+Po {{ site.event.payment.late }} przyjmujemy jedynie wpłaty bezpośrednie w wysokości 45.
 
 Osoby które zobligują się do pomocy przy organizacji i realnie ze zobowiązania się wywiążą, mogą liczyć na zwrot części kwoty już po rozliczeniu konwentu.
 

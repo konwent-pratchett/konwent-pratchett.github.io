@@ -1,12 +1,12 @@
 ---
 title: Podstawowe informacje
 feature_text: |
-  ## Konwent Pratchett Wiosna 2018
+  ## Konwent Pratchett Jesień 2018
 
   Podstawowe informacje o konwencie
 feature_image: "/assets/headers/home.jpg"
 image: "/assets/headers/home.jpg"
-excerpt: "Konwent Pratchett Wiosna 2018"
+excerpt: "Konwent Pratchett Jesień 2018"
 ---
 
 ### Do kiedy można się rejestrować?
@@ -27,8 +27,8 @@ Niestety, organizacja konwentu kosztuje. Pieniądze zbierane za uczestnictwo są
 
 Zgodnie z [regulaminem](/regulamin), jeśli jesteś tylko ciekawy/a, możesz bezpłatnie wejść jako gość i zobaczyć, co się dzieje. Jeśli jednak chcesz się cieszyć pełnią praw konwentowicza, konieczne jest uiszczenie opłaty:
 
-* Jeśli przelew zostanie wykonany najpóźniej 4 kwietnia 2018: **35 pln**,
-* Jeśli przelew zostanie wykonany pomiędzy 4 a 13 kwietnia 2018: **40pln**
-* Gotówką do 13 kwietnia: **40 pln**
-* Po 13 kwietnia 2018 przyjmujemy jedynie wpłaty bezpośrednie w wysokości **45pln**,
+* Jeśli przelew zostanie wykonany najpóźniej {{ site.event.payment.early }}: **35 pln**,
+* Jeśli przelew zostanie wykonany pomiędzy {{ site.event.payment.normal }}: **40pln**
+* Gotówką do {{ site.event.payment.normal_cash }}: **40 pln**
+* Po {{ site.event.payment.late }} przyjmujemy jedynie wpłaty bezpośrednie w wysokości **45pln**,
 * Osoby, które zobligują się pomagać na konwencie i realnie się z zobowiązania wywiążą, mogą liczyć na zwrot części kwoty po rozliczeniu konwentu.
