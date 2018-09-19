@@ -11,6 +11,6 @@ Kolejny już zlot fanów twórczości Terry’ego Pratchetta. Zabawę zaczynamy 
 
 Impreza odbywa się w Domu Gromadzkim w Nawojowej Górze, miejscowości położonej dosłownie rzut beretem (i czterdzieści minut jazdy busem) od Krakowa.
 
-Stworzony przez fanów, dla fanów. Cechuje się nietypowo wręcz przyjazną atmosferą.
+Został stworzony przez fanów dla fanów. Cechuje się nietypowo wręcz przyjazną atmosferą dla wszelakich żyjących (również nieżyjących) istot.
 
-Przypominamy o zbiórce książek-darów dla lokalnej biblioteki.
+Skromnie rzypominamy o zbiórce książek-darów dla lokalnej biblioteki.
