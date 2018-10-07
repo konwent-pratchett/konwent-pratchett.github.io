@@ -28,6 +28,13 @@ body {
   margin: 0 auto;
 }
 
+.information {
+  background: red;
+  padding: 10pt;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 150%;
+}
+
 .header-nofeat {
   background: $color__site--accent;
   color: $color__site--background;
