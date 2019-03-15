@@ -47,8 +47,8 @@ Dalej są już Krzeszowice. Jeżeli nie chce się Wam zerkać na mapę albo pyta
 
 W sytuacji: o rany, gdzie ja kurcze blade jestem?! Mamy dwa numery „alarmowe”:
 
- * **880 353 711 - Gytha**
- * **662 069 429 - Jarema**
+ * **880 353 711 - Gytha** _(Atrybuty: Znajomość Mieszkańców, Znajomość Okolicy, Ogarnięcie Życiowe, Rozsądek, Macki Na Skinienie)_
+ * **662 069 429 - Jarema** _(Atrybuty: Znajomość Mieszkańców, Znajomość Okolicy, Pomoc Rozsądnej Sekretarki)_
 
 Postaramy się udzielić informacji, które uratują skórę.
 
