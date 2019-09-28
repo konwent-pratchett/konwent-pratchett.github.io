@@ -31,7 +31,7 @@ Gdyby ktoś wzgardził naszym ciepełkiem i noclegiem wspólnym, najbliższe mo�
 
 ## Informacje dotyczące dojazdu
 
-Busy z Krakowa (Wita Stwosza 1 - parking pod estakadą) do Krzeszowic, a co za tym idzie jadące do Nawojowej Góry, w tygodniu jadą co 10 minut, soboty-15 a niedziele 20. Ostatnie z Krakowa w tygodniu wyjadą o 22, w weekend jakoś o 21. Kosztuje równe 5 złotych.
+Busy z Krakowa (Wita Stwosza 1 - parking pod estakadą) do Krzeszowic, a co za tym idzie jadące do Nawojowej Góry, w tygodniu jadą co 10 minut, soboty-15 a niedziele 20. Ostatnie z Krakowa w tygodniu wyjadą o 22, w weekend jakoś o 21. Bilety kosztują 5,50 zł.
 
 Jadąc busem z Krakowa, zacznijcie zbierać klamoty kiedy wjedziecie do Rudawy. Jeśli nastawiacie się na spacer, wysiądźcie na DRUGIM przystanku w Nawojowej Górze. Albo poproście kierowcę o wysadzenie Was tam kiedy będziecie wsiadać do busa i płacić, albo nie zasypiajcie. Jeżeli jednak Wam się to udało, i nie wiecie który to przystanek to po pierwsze: bez paniki. Pierwszy przystanek w Nawojowej Górze wygląda zwyczajnie biednie. To po prostu tablica informacyjna zaraz za znakiem z nazwą miejscowości.
 

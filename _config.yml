@@ -77,17 +77,17 @@ description: "Konwent Pratchettowy w Nawojowej Górze"
 url: "http://konwent-pratchett.pl/"
 
 event:
-  start: "2019-04-05"
-  end: "2019-04-07"
-  registration_end: "2019-03-31"
-  human_start: "5 kwietnia"
-  human_end: "7 kwietnia"
-  season: "Wiosna 2019"
+  start: "2019-10-18"
+  end: "2019-10-20"
+  registration_end: "2019-10-13"
+  human_start: "18 października"
+  human_end: "20 października"
+  season: "Jesień 2019"
   payment:
-    early: "31 marca 2019"
-    normal: "31 marca a 4 kwietnia 2019"
-    normal_cash: "5 kwietnia 2019"
-    late: "5 kwietnia 2019"
+    early: "13 października 2019"
+    normal: "13 października a 18 października 2019"
+    normal_cash: "18 października 2019"
+    late: "13 października 2019"
 
 # 8. Site navigation
 navigation_header:

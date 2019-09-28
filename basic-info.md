@@ -1,12 +1,12 @@
 ---
 title: Podstawowe informacje
 feature_text: |
-  ## Konwent Pratchett Wiosna 2019
+  ## Konwent Pratchett Jesień 2019
 
   Podstawowe informacje o konwencie
 feature_image: "/assets/headers/home.jpg"
 image: "/assets/headers/home.jpg"
-excerpt: "Konwent Pratchett Wiosna 2019"
+excerpt: "Konwent Pratchett Jesień 2019"
 ---
 
 ### Do kiedy można się rejestrować?
